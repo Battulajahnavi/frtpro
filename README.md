@@ -16,9 +16,17 @@ Project Description : The genre's focus on story allows it to draw heavily from 
 
 Primary Azure Technology : Static Web Apps, App Service
 
+.............................................................................................................................................................
+
 Static Web App URL : https://brave-dune-0c4f91910.2.azurestaticapps.net
 
 App Services URL : https://adventuregaming.azurewebsites.net/
+
+...........................................................................................................................................................
+
+
+project demo video URL:https://drive.google.com/drive/folders/1Z768eS5H7BzZpvhs1gJCtvNineYrQNfu
+
 
 ## My Website Link : https://brave-dune-0c4f91910.2.azurestaticapps.net
 
